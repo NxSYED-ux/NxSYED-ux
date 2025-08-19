@@ -35,9 +35,10 @@
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/NxSYED-ux">
+    <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/output/github-contribution-grid-snake.svg" />
+  </a>
 </p>
 
 ---
