@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋! My name is Syed Muhammad Ibrahim 
+### MERN Stack & Laravel Developer from Lahore, Pakistan  
 
-<!--
-**NxSYED-ux/NxSYED-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Usman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniqbal2410&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usmaniqbal2410&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Technologies
+- **Languages:** JavaScript, PHP  
+- **Frontend:** React, HTML5, CSS3  
+- **Backend:** Node.js, Express.js, Laravel  
+- **Databases:** MongoDB, MySQL  
+
+---
+
+## 📫 Connect With Me  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-username)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-username)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/usmaniqbal2410)  
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/usmaniqbal2410/usmaniqbal2410/blob/output/github-contribution-grid-snake.gif)
