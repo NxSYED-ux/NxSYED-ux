@@ -28,4 +28,4 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/NxSYED-ux/NxSYED-ux/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/NxSYED-ux/NxSYED-ux/blob/output/dist/github-contribution-grid-snake.gif)
