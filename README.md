@@ -29,7 +29,7 @@
   <a href="https://instagram.com/syed_7_2_9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://facebook.com/syed.ibrahim.717159" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:syedmu729@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/syed-muhammad-ibrahim-741279251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-741279251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/NxSYED-ux" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -37,7 +37,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.gif" />
 </p>
 
 
