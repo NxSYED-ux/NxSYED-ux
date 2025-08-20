@@ -50,8 +50,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+  <picture>
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+    <!-- Light Mode -->
+    <img src="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  </picture>
 </p>
+
 
 ---
 
