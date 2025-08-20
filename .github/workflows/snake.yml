@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Contribution
 
 on:
   schedule:
@@ -8,24 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 important! allows pushing
     steps:
       # Checkout the repository
       - uses: actions/checkout@v3
 
-      # Generate the snake in SVG format
-      - name: Generate Contribution Snake
+      # Generate the snake SVG
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: NxSYED-ux
-          output_file: github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      # Commit and push changes
-      - name: Commit and Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-contribution-grid-snake.svg
-          git diff-index --quiet HEAD || git commit -m "Update contribution snake"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Push the generated file
+      - name: Push Snake to main
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "github-contribution-grid-snake.svg"
+          message: "chore: update contribution snake"
