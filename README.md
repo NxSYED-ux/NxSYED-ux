@@ -17,13 +17,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00EFFF" height="165"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=radical&hide_border=true&background=0D1117&ring=00EFFF&fire=FF00FF&currStreakLabel=FF00FF" height="165"/>
+  <!-- GitHub stats adapt to user's theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=auto&hide_border=true" height="165"/>
+  
+  <!-- Streak stats with light/dark adaptation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=dark&hide_border=true&background=FFFFFF&ring=4BCFFA&fire=FF6DFF&currStreakLabel=4BCFFA" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=auto&hide_border=true" height="150"/>
 </p>
 
 ---
