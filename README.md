@@ -17,45 +17,33 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub stats adapt to user's theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=auto&hide_border=true" height="165"/>
-  
-  <!-- Streak stats with light/dark adaptation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=dark&hide_border=true&background=FFFFFF&ring=4BCFFA&fire=FF6DFF&currStreakLabel=4BCFFA" height="165"/>
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true" />
+    <!-- Light Mode -->
+    <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true" height="165"/>
+  </picture>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=light&hide_border=true" height="165"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=auto&hide_border=true" height="150"/>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=default&hide_border=true" height="150"/>
+  </picture>
 </p>
 
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,php,laravel,mysql,html,css,tailwind,github,vscode,figma" />
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake-light.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/syed_7_2_9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF0095.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/syed.ibrahim.717159" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230066FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:syedmu729@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23FF3E30.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-741279251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/NxSYED-ux" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 🐍 Contribution Snake 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
-</p>
