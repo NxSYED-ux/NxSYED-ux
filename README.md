@@ -17,17 +17,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Dark Mode -->
+  <!-- Dark Mode Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true" />
-    <!-- Light Mode -->
-    <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&animate=true" />
+    <!-- Light Mode Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true&count_private=true&animate=true" height="165"/>
   </picture>
 
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NxSYED-ux&theme=light&hide_border=true" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NxSYED-ux&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NxSYED-ux&theme=light&hide_border=true" height="165"/>
   </picture>
 </p>
 
