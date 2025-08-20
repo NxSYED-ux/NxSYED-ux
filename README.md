@@ -52,6 +52,24 @@
 ---
 
 ## 🐍 Contribution Snake 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
-</p>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" preserveAspectRatio="xMidYMid">
+  <image href="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" x="0" y="0" width="720" height="120" preserveAspectRatio="xMidYMid" />
+  <defs>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="maskShine">
+      <rect x="0" y="0" width="720" height="120" fill="white" />
+      <rect id="streak" x="-180" y="0" width="180" height="120" fill="url(#shine)"/>
+      <animate xlink:href="#streak" attributeName="x" from="-220" to="760" dur="3.2s" repeatCount="indefinite" />
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="720" height="120" fill="white" mask="url(#maskShine)" opacity="0.0"/>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;0.97;1" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>
+
