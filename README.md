@@ -26,9 +26,9 @@
 
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NxSYED-ux&theme=dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NxSYED-ux&theme=light&hide_border=true" height="165"/>
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" height="165"/>
+</picture>
 </p>
 
 <p align="center">
@@ -45,19 +45,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,php,laravel,mysql,html,css,tailwind,github,vscode,figma" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-    <!-- Light Mode -->
-    <img src="https://github-profile-trophy.vercel.app/?username=NxSYED-ux&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-  </picture>
-</p>
-
 
 ---
 
