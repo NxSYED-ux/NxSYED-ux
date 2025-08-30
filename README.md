@@ -3,22 +3,18 @@
 I completed my **BS in Software Engineering** from [Comsats University, Lahore](https://lahore.comsats.edu.pk/default.aspx).  
 I’m a passionate **Web Developer** who loves coding, building projects, and contributing to open source.  
 
----
 
 ### My Interests
 - Artificial Intelligence (AI)  
 - Automation  
 - Innovative ideas that can change the world
-- Cutting-edge technologies  
-
----
+- Cutting-edge technologies
+  
 
 ### I’m open to
 - Collaboration on exciting projects  
 - Open-source contributions  
-- Learning and sharing knowledge  
-
----
+- Learning and sharing knowledge
 
 ## Skills
 
@@ -56,8 +52,6 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
 ## Connect with me  
 
 <p align="center">
@@ -69,8 +63,6 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/NxSYED.ux)
 
 </p>
-
----
 
 ## GitHub Analytics
 
@@ -93,8 +85,6 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=default&hide_border=true" height="150"/>
 </picture>
 </p>
-
----
 
 ## Contribution Snake
 <p align="center"> 
