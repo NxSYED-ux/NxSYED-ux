@@ -8,8 +8,7 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 ### My Interests
 - Artificial Intelligence (AI)  
 - Automation  
-- Innovative ideas that can change the world  
-- Node.js  
+- Innovative ideas that can change the world
 - Cutting-edge technologies  
 
 ---
