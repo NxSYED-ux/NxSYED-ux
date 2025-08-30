@@ -1,67 +1,103 @@
-<!-- Typing SVG -->
+### Hi there, I'm [Syed Muhammad Ibrahim](https://durgeshsamariya.github.io) 👋
+
+I completed my **BS in Software Engineering** from [Comsats University, Lahore](https://lahore.comsats.edu.pk/default.aspx).  
+I’m a passionate **Web Developer** who loves coding, building projects, and contributing to open source.  
+
+---
+
+### My Interests
+- Artificial Intelligence (AI)  
+- Automation  
+- Innovative ideas that can change the world  
+- Node.js  
+- Cutting-edge technologies  
+
+---
+
+### I’m open to
+- Collaboration on exciting projects  
+- Open-source contributions  
+- Learning and sharing knowledge  
+
+---
+
+## Skills
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Tools and Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### IDEs
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## Connect with me  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Muhammad+Ibrahim;MERN+Stack+Developer+%F0%9F%92%BB;Laravel+Developer+⚡;Open+Source+Enthusiast+🌍;Always+Learning+New+Things+🚀" />
+
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://github.com/NxSYED-ux)
+[<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NxSYED_ux)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/NxSYED-ux)
+[<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/NxSYED.ux)
+[<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/NxSYED.ux)
+
 </p>
 
 ---
 
-## 🚀 About Me
-<p align="center">
-  💻 Passionate <b> Developer</b> <br/>
-  🌍 Based in <b>Pakistan</b> <br/>
-  ✨ Open Source Contributor
-</p>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <!-- Dark Mode Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&animate=true" />
-    <!-- Light Mode Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true&count_private=true&animate=true" height="165"/>
-  </picture>
+<!-- Dark Mode Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&animate=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true&count_private=true&animate=true" height="165"/>
+</picture>
 
-  <!-- Streak Stats -->
-  <picture>
+<!-- Streak Stats -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" height="165"/>
 </picture>
-</p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=default&hide_border=true" height="150"/>
-  </picture>
-</p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,php,laravel,mysql,html,css,tailwind,github,vscode,figma" />
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=default&hide_border=true" height="150"/>
+</picture>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/syed_7_2_9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF0095.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/syed.ibrahim.717159" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230066FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:syedmu729@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23FF3E30.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-741279251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/NxSYED-ux" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 🐍 Contribution Snake 
+## Contribution Snake
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/NxSYED-ux/NxSYED-ux/main/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
 </p>
-</p>
-
