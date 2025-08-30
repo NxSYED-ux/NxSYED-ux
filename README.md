@@ -1,4 +1,4 @@
-### Hi there, I'm [Syed Muhammad Ibrahim](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Syed Muhammad Ibrahim](#) 👋
 
 I completed my **BS in Software Engineering** from [Comsats University, Lahore](https://lahore.comsats.edu.pk/default.aspx).  
 I’m a passionate **Web Developer** who loves coding, building projects, and contributing to open source.  
