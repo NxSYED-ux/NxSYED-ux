@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 👈 important! allows pushing
+      contents: write
     steps:
       # Checkout the repository
       - uses: actions/checkout@v3
@@ -26,4 +26,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: "github-contribution-grid-snake.svg"
-          message: "chore: update contribution snake"
+          message: "Update contribution snake"
