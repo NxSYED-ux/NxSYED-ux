@@ -47,7 +47,6 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 <p align="center">
 
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NxSYED_ux)
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/NxSYED-ux)
 [<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/NxSYED.ux)
 [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/NxSYED.ux)
