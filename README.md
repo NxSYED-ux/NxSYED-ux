@@ -44,7 +44,6 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 </p>
 
 ## Connect with me  
-
 <p align="center">
 
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](#)
