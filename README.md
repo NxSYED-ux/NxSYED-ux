@@ -1,4 +1,4 @@
-### Hi there, I'm [Syed Muhammad Ibrahim](#) 👋
+### Hi there, I'm [Syed Muhammad Ibrahim](https://syedverse.netlify.app) 👋
 
 I completed my **BS in Software Engineering** from [Comsats University, Lahore](https://lahore.comsats.edu.pk/default.aspx).  
 I’m a passionate **Web Developer** who loves coding, building projects, and contributing to open source.  
@@ -46,7 +46,7 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 ## Connect with me  
 <p align="center">
 
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://syedverse.netlify.app)
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/NxSYED-ux)
 [<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/NxSYED.ux)
 [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/NxSYED.ux)
