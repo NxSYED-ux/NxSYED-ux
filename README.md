@@ -53,12 +53,17 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 
 ---
 
-## Connect with me  
-<p align="center">
-
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://syedverse.netlify.app)  
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/NxSYED-ux)  
-[<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/NxSYED.ux)  
-[<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/NxSYED.ux)  
-
-</p>
+<div align="center">
+  <a href="https://syedverse.netlify.app">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/NxSYED-ux">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/NxSYED.ux">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/NxSYED.ux">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
