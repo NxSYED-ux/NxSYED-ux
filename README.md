@@ -26,19 +26,22 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 </picture>
 
 <!-- Streak Stats -->
-<picture>
-  <!-- Dark mode -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true"
-  />
-  <!-- Light mode fallback -->
-  <img 
-    src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" 
-    alt="GitHub Streak Stats" 
-    height="165"
-  />
-</picture>
+<img 
+  src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" 
+  alt="GitHub Streak Stats" 
+  height="165"
+  data-view-component="true"
+/>
+
+<!-- Optional: Automatically switch to dark theme for dark mode -->
+<script>
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    const streakImg = document.querySelector('img[alt="GitHub Streak Stats"]');
+    if (streakImg) {
+      streakImg.src = "https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true";
+    }
+  }
+</script>
 
 <!-- Top Languages -->
 <picture>
