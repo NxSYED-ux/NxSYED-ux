@@ -27,8 +27,17 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 
 <!-- Streak Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" height="165"/>
+  <!-- Dark mode -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true"
+  />
+  <!-- Light mode fallback -->
+  <img 
+    src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    height="165"
+  />
 </picture>
 
 <!-- Top Languages -->
