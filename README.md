@@ -66,4 +66,4 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
   <a href="https://www.instagram.com/NxSYED.ux">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</div> 
