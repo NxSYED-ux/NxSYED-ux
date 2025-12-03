@@ -22,27 +22,20 @@ I’m a passionate **Web Developer** who loves coding, building projects, and co
 
 ## GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<!-- Dark Mode GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&animate=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=default&hide_border=true&count_private=true&animate=true" height="165"/>
-</picture>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NxSYED-ux&show_icons=true&theme=radical&hide_border=true&animate=true" height="165" alt="Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true" height="165" alt="Languages" />
 
-<!-- Dark Mode Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NxSYED-ux&theme=dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=NxSYED-ux&theme=default&hide_border=true" alt="GitHub Streak Stats" height="165"/>
-</picture>
+<br/>
 
-<!-- Dark Mode Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxSYED-ux&layout=compact&theme=default&hide_border=true" height="150"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NxSYED-ux&theme=radical&hide_border=true" height="165" alt="Streak" />
 
-</p>
+<br/>
+
+<img src="https://github-profile-trophies.vercel.app/?username=NxSYED-ux&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+
+</div>
 
 ---
 
